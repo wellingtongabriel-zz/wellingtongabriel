@@ -16,6 +16,7 @@
 ![Csharp](https://img.shields.io/badge/-Csharp-FFF?&logo=Csharp&logoColor=7f098f)
 ![.Net Core](https://img.shields.io/badge/-.NetCore-FFF?&logo=dotnet&logoColor=7f098f)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF?&logo=node.js)
+![RabbitMQ](https://img.shields.io/badge/-rabbitMQ-FFF?&logo=rabbitMQ)
 
 
 ![Wellington Barea's github stats](https://github-readme-stats.vercel.app/api?username=wellingtongabriel&theme=radical&count_private=true&show_icons=true)

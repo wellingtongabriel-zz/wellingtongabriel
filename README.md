@@ -10,7 +10,13 @@
 ![React](https://img.shields.io/badge/-React-FFF?&logo=React)
 ![React](https://img.shields.io/badge/-Angular-FFF?&logo=angular&logoColor=red)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-FFF?&logo=vue.js&logoColor=green)
+![GraphQL](https://img.shields.io/badge/-GraphQL-FFF?&logo=GraphQL&color=d440db)
+
+![Jest](https://img.shields.io/badge/-Jest-FFF?&logo=jest&color=red)
+![Jasmine js](https://img.shields.io/badge/-jasmine-FFF?&logo=jasmine&color=810f87)
+
 ![SCSS](https://img.shields.io/badge/-scss-FFF?&logo=sass)
+![Styled-Components](https://img.shields.io/badge/-Styled%20Component-FFF?&logo=styled-components)
 
 #### Backend
 ![Csharp](https://img.shields.io/badge/-Csharp-FFF?&logo=Csharp&logoColor=7f098f)
